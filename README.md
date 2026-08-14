@@ -2,13 +2,25 @@
 
 🎓 **B.E. in Artificial Intelligence & Data Science**
 💻 **Full Stack Developer**
-🤖 Exploring **AI + Full Stack Development**
+🤖 **Interested in AI + Full Stack Development**
 
-I enjoy building responsive web applications, learning new technologies, and turning ideas into practical digital solutions.
+I'm a Full Stack Developer with a background in **Artificial Intelligence & Data Science**, passionate about creating modern, responsive, and user-friendly web applications.
+
+I enjoy turning ideas into real-world applications and solving problems through technology. I'm particularly interested in building clean interfaces, developing reliable backend systems, working with databases, and exploring how AI can be integrated into web applications.
+
+I believe in continuously learning and improving my skills by building, experimenting with new technologies, and working on practical applications.
 
 ---
 
 ## Tech Stack 💻
+
+### Programming Languages
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+</p>
 
 ### Frontend
 
@@ -29,14 +41,6 @@ I enjoy building responsive web applications, learning new technologies, and tur
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-### Programming
-
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-</p>
-
 ### Tools
 
 <p>
@@ -48,53 +52,9 @@ I enjoy building responsive web applications, learning new technologies, and tur
 
 ---
 
-## Featured Projects 🚀
+## Let's Connect 🔗
 
-### 🖥️ AIVA — AI Desktop Assistant
-
-An AI-powered desktop assistant designed to automate desktop tasks using natural language and voice interaction.
-
-**Tech:** Python • PyQt6 • NLP • PyAutoGUI
-
-### 🎬 Netflix Clone
-
-A responsive Netflix-inspired web application built to practice frontend development, responsive design, and modern UI development.
-
-**Tech:** HTML • CSS • JavaScript
-
-### 🤖 AI-Powered Mental Health Chatbot
-
-A conversational AI application developed using Dialogflow to create an interactive chatbot experience.
-
-**Tech:** Dialogflow • NLP
-
-### 🍽️ Restaurant Recommendation System
-
-A recommendation-based application designed to help users discover restaurants based on their preferences.
-
-**Tech:** Python • Machine Learning
-
----
-
-## What I Do 💡
-
-```text
-Frontend Development
-        ↓
-React.js & Modern UI
-        ↓
-Backend Development
-        ↓
-REST APIs & Databases
-        ↓
-AI Integration
-        ↓
-Full Stack Applications
-```
-
----
-
-## Connect With Me 🔗
+I'm always interested in learning, collaborating, and connecting with people who enjoy building with technology.
 
 <p>
 <a href="https://www.linkedin.com/in/akanksha-uchale/">
