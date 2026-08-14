@@ -2,13 +2,11 @@
 
 🎓 **B.E. in Artificial Intelligence & Data Science**
 💻 **Full Stack Developer**
-🤖 **Interested in AI + Full Stack Development**
+🤖 **Exploring AI + Full Stack Development**
 
-I'm a Full Stack Developer with a background in **Artificial Intelligence & Data Science**, passionate about creating modern, responsive, and user-friendly web applications.
+I'm a **Full Stack Developer with a background in Artificial Intelligence & Data Science**, passionate about building modern, responsive, and user-friendly web applications.
 
-I enjoy turning ideas into real-world applications and solving problems through technology. I'm particularly interested in building clean interfaces, developing reliable backend systems, working with databases, and exploring how AI can be integrated into web applications.
-
-I believe in continuously learning and improving my skills by building, experimenting with new technologies, and working on practical applications.
+I enjoy turning ideas into practical solutions, solving problems through technology, and exploring how **AI can be integrated with web applications**. I’m continuously learning new technologies and improving my development skills through hands-on projects and experimentation.
 
 ---
 
@@ -52,9 +50,26 @@ I believe in continuously learning and improving my skills by building, experime
 
 ---
 
+## Currently Learning 📚
+
+I'm currently focused on strengthening my **Full Stack Development** skills and becoming more comfortable with building complete applications from frontend to backend.
+
+* ⚛️ Advanced **React.js** and component-based development
+* 🟢 **Node.js & Express.js** for backend development
+* 🔗 Building and consuming **REST APIs**
+* 🍃 **MongoDB** and database management
+* 🔐 Backend authentication and application security
+* 🧩 Connecting frontend applications with backend services
+* 🤖 Exploring **AI integration with web applications**
+* 🚀 Learning how to build and structure complete **MERN stack applications**
+
+My current goal is to combine my knowledge of **AI & Data Science with Full Stack Development** and build applications that are both useful and intelligent.
+
+---
+
 ## Let's Connect 🔗
 
-I'm always interested in learning, collaborating, and connecting with people who enjoy building with technology.
+I'm always interested in learning, collaborating, discussing new ideas, and connecting with people who are passionate about technology and development.
 
 <p>
 <a href="https://www.linkedin.com/in/akanksha-uchale/">
